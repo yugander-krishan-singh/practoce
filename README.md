@@ -10,7 +10,7 @@ Parking lot management provides the facility to manage the parking lot efficient
  - Get all slot numbers of vehicles of a particular color
  - Get the slot number for vehicle with the registration number
 
-Also the instructions can be passed to the application as explained [here]() by either by using a text file or by giving one-by-one instructions related to vehicle parking
+Also the instructions can be passed to the application as explained [here](https://github.com/yugander-krishan-singh/practoce/blob/master/README.md#strat-the-app) by either by using a text file or by giving one-by-one instructions related to vehicle parking
 
 
 # Requirements
