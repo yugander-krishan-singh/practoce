@@ -3,12 +3,12 @@
 # General
 Parking lot management provides the facility to manage the parking lot efficiently. The list of actions that can be perfromed while using this service are:
 
-    - Park a vehicle
-    - Unpark a vehicle
-    - Get the status of parking lot
-    - Get all registration numbers of vehicles of a particular color
-    - Get all slot numbers of vehicles of a particular color
-    - Get the slot number for vehicle with the registration number
+ - Park a vehicle
+ - Unpark a vehicle
+ - Get the status of parking lot
+ - Get all registration numbers of vehicles of a particular color
+ - Get all slot numbers of vehicles of a particular color
+ - Get the slot number for vehicle with the registration number
 
 Also the instructions can be passed to the application either by using a text file or by giving one-by-one instructions related to vehicle parking. Go to 
 
