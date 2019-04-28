@@ -1,7 +1,6 @@
 # PARKING LOT Management
 
 # General
---------------------------------------------------
 Parking lot management provides the facility to manage the parking lot efficiently. The list of actions that can be perfromed while using this service are:
 
     - Park a vehicle
@@ -15,18 +14,15 @@ Also the instructions can be passed to the application either by using a text fi
 
 
 # Requirements
--------------------------------------------------
     - Java 1.8
     - Maven 3.3.9 (or higher)
 
 # Building
-------------------------------------------------
 In order to build the code follow these steps:
     - Go to parking_lot director
     - Execute `bin/setup` command
 
 # Strat The App
-
 The interaction with the app can be done by two way:
     - First Way:
 
