@@ -10,7 +10,7 @@ Parking lot management provides the facility to manage the parking lot efficient
  - Get all slot numbers of vehicles of a particular color
  - Get the slot number for vehicle with the registration number
 
-Also the instructions can be passed to the application either by using a text file or by giving one-by-one instructions related to vehicle parking. Go to 
+Also the instructions can be passed to the application as explained [here]() by either by using a text file or by giving one-by-one instructions related to vehicle parking
 
 
 # Requirements
@@ -23,7 +23,7 @@ In order to build the code follow these steps:
  - Execute `bin/setup` command
 
 # Strat The App
-The interaction with the app can be done by two way:
+The interaction with the app can be done in two way:
  
  - **First Way**:
    1. Go to parking_lot director
