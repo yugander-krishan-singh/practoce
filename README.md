@@ -32,6 +32,8 @@ The interaction with the app can be done by two way:
     
   - **Second Way**:
    1. Go to `parking_lot` directory
-   2. Run command `bin/parking_lot FILE_NAME.txt`. Application will look for the file in **parking_lot** directory. If file is not found, it will take the text file  `file_input.txt` present in the `functional_spec/fixtures` directory. O/P will be displayed on the terminal
+   2. Run command `bin/parking_lot FILE_NAME.txt`. Application will look for the file in **parking_lot** directory. If file is not       
+      found, it will take the text file  `file_input.txt` present in the `functional_spec/fixtures` directory. O/P will be displayed on 
+      the terminal
 
 
