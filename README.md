@@ -23,10 +23,10 @@ In order to build the code follow these steps:
  - Execute `bin/setup` command
 
 # Strat The App
-The interaction with the app can be done in two way:
+The interaction with the app can be done in two ways:
  
  - **First Way**:
-   1. Go to parking_lot director
+   1. Go to `parking_lot` directory
    2. Run command `bin/parking_lot`
    3. An interactive terminal will start. Type the commands. O/P will be displayed below the commad after **Enter** key is pressed. Can be exited by typing **exit**
     
